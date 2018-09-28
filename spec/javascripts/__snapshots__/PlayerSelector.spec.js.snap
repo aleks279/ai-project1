@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PlayerSelector.vue has the expected html structure 1`] = `
+<div
+  class="player-selector"
+>
+  <div>
+    Player 1 type:
+  </div>
+   
+  <input
+    checked="checked"
+    id="player1human"
+    name="playerType1"
+    type="radio"
+    value="human"
+  />
+   
+  <label
+    for="player1human"
+  >
+    Human
+  </label>
+  <br />
+   
+  <input
+    id="player1computer"
+    name="playerType1"
+    type="radio"
+    value="computer"
+  />
+   
+  <label
+    for="player1computer"
+  >
+    Computer
+  </label>
+  <br />
+   
+  <br />
+</div>
+`;

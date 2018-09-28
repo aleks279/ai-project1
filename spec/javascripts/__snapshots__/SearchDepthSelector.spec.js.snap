@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchDepthSelector.vue has the expected html structure 1`] = `
+<div
+  class="centered"
+>
+  <label
+    for="search-depth-selector"
+  >
+    Search depth:
+  </label>
+   
+  <select
+    id="search-depth-selector"
+  >
+    <option>
+      1
+    </option>
+    <option>
+      2
+    </option>
+    <option
+      selected="selected"
+    >
+      3
+    </option>
+    <option>
+      4
+    </option>
+    <option>
+      5
+    </option>
+  </select>
+</div>
+`;

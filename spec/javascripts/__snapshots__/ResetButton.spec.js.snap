@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ResetButton.vue has the expected html structure 1`] = `
+<div
+  class="centered"
+>
+  <button>
+    Reset
+  </button>
+</div>
+`;

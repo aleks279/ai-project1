@@ -1,0 +1,314 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GameBoard.vue matches the snapshot 1`] = `
+<div
+  class="board-container"
+>
+  <div>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+  </div>
+  <div>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+  </div>
+  <div>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          2
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+  </div>
+  <div>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          1
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+  </div>
+  <div>
+    <span
+      class="board-element"
+    >
+      
+          1
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          2
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          2
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+  </div>
+  <div>
+    <span
+      class="board-element"
+    >
+      
+          1
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          2
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          1
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+    <span
+      class="board-element"
+    >
+      
+          .
+      
+    </span>
+  </div>
+</div>
+`;

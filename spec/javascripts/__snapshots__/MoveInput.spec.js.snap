@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MoveInput.vue has the expected html structure 1`] = `
+<div
+  class="board-container"
+>
+  <span>
+    <button
+      class="board-element"
+    >
+      0
+    </button>
+  </span>
+  <span>
+    <button
+      class="board-element"
+    >
+      1
+    </button>
+  </span>
+  <span>
+    <button
+      class="board-element"
+    >
+      2
+    </button>
+  </span>
+  <span>
+    <button
+      class="board-element"
+    >
+      3
+    </button>
+  </span>
+  <span>
+    <button
+      class="board-element"
+    >
+      4
+    </button>
+  </span>
+  <span>
+    <button
+      class="board-element"
+    >
+      5
+    </button>
+  </span>
+  <span>
+    <button
+      class="board-element"
+    >
+      6
+    </button>
+  </span>
+</div>
+`;
