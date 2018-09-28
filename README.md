@@ -1,3 +1,11 @@
+## Instituto Tecnologico de Costa Rica
+## Escuela de Ingenieria en Computacion
+## Inteligencia Artificial
+## Prof.: Maria Mora
+## Proyecto 1
+## Saul Zamora
+## 200835773
+
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
