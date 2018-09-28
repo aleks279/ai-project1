@@ -34,3 +34,11 @@ erd.pdf
 
 .DS_Store
 /**/.DS_Store
+
+/yarn-error.log
+
+/public/packs
+/public/packs-test
+/node_modules
+yarn-debug.log*
+.yarn-integrity
