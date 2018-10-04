@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1 class="centered">Connect 4 with AI</h1>
+    <h1 class="centered">Connect 4</h1>
+    <h3 class="centered">IA - Proyecto 1</h3>
     <div class="player-selector-container">
       <PlayerSelector
         :player=1
