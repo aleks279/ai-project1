@@ -34,7 +34,7 @@
     <ul>
       <li>Select player type</li>
       <li>Select difficulty level</li>
-      <li>When playing as a human, click one of the buttons labed "1" through "7" to select a column for your move.</li>
+      <li>When playing as a human, click one of the buttons labed "1" through "5" to select a column for your move.</li>
     </ul>
     <p>Click the "Reset" button at any time to clear the game board and start over.</p>
     <p>The difficulty level represents the search depth, which determines how many moves into the future the computer should look before picking a move. Higher search depths make the computer a more difficult opponent.</p>
